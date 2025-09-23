@@ -2,4 +2,4 @@
 ## Image Stitching(OpenCV)
 ## Object Recognition(YOLOv5)
 ## VR Panorama(Pannellum)
-## React
+## Frontend - React
